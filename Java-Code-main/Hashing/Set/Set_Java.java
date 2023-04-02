@@ -32,12 +32,12 @@ public class Set_Java {
         System.out.println("Unions of box1 and box2 is = " + union);
 
         // 1. TO FIND INTERSECTION
-        Set<Float> intersection=new HashSet<>();
+        Set<Float> intersection=new HashSet<>(box1);
         intersection.retainAll(box2);
         System.out.println("Intersection of box1 and box2 is = "+ intersection);
 
         // 1. TO FIND DIFFERENCE
-        Set<Float> difference = new HashSet<>();
+        Set<Float> difference = new HashSet<>(box1);
         difference.removeAll(box2);
         System.out.println("Difference of box1 and box2 is = " + difference);
 
