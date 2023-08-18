@@ -1,4 +1,4 @@
-package CWH_38_50_Oops;
+package CWH_38_61_Oops_part1;
 
 // there is only one public class in java
 class Exam {

@@ -1,4 +1,4 @@
-package CWH_38_50_Oops;
+package CWH_38_61_Oops_part1;
 
 /*
  * Here we will discuss different type of Variables available in Java
