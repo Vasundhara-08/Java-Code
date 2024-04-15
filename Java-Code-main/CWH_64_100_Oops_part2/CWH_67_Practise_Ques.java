@@ -1,4 +1,4 @@
-package CWH_65_100_Oops_part2;
+package CWH_64_100_Oops_part2;
 
 class Circle{
     public double radius;
@@ -28,12 +28,11 @@ class Cylinder extends Circle{
       return v;
     }
 }
-public class CWH_66_Practise_Ques {
+public class CWH_67_Practise_Ques {
     public static void main(String[] args) {
 
         Circle ci = new Circle(6);
         Cylinder cr = new Cylinder(4,6);
-
         System.out.println(ci.area());
         System.out.println(cr.volume());
     }

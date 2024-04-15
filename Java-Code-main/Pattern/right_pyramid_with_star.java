@@ -1,6 +1,6 @@
 package Pattern;
 
-public class right_pyramid_1 {
+public class right_pyramid_with_star {
     public static void main(String[] args) {
         int n =5;
         for(int i=1;i<=n;i++)     // i=1,2,3,4,5
@@ -11,6 +11,6 @@ public class right_pyramid_1 {
             }
             System.out.println(" ");
         }
-        System.out.println();
+//        System.out.println();
     }
 }

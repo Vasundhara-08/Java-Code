@@ -1,6 +1,6 @@
 package Pattern;
 
-public class pyramid_with_number {
+public class right_pyramid_with_number {
     public static void main(String[] args) {
         int n =5;
         for(int i=1;i<=n;i++)

@@ -1,6 +1,6 @@
 package Pattern;
 // most important question
-public class left_pyramid_1 {
+public class left_pyramid_with_star {
     public static void main(String[] args) {
         int a=4;
         for(int i=1;i<=a;i++)  // 1,2,3,4

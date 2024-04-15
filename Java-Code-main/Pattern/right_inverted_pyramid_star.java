@@ -1,6 +1,6 @@
 package Pattern;
 
-public class right_pyramid_2 {
+public class right_inverted_pyramid_star {
     public static void main(String args[])
     {
         int n=6;

@@ -1,11 +1,11 @@
 package Pattern;
 
-public class pyrammid_number_inverted {
+public class right_inverted_pyrammid_number {
     public static void main(String[] args) {
-        int n =6;
-        for (int i=1;i<=n;i++)
+        int n =5;
+        for (int i=1;i<=n;i++ )   //
         {
-           for(int j=1;j<=n-i+1;j++)
+           for(int j=1;j<=n-i+1;j++)   //
            {
                System.out.print(j+" ");
            }
@@ -13,3 +13,4 @@ public class pyrammid_number_inverted {
         }
     }
 }
+
